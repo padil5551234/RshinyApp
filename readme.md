@@ -23,7 +23,7 @@ Aplikasi _dashboard_ interaktif ini merupakan proyek tugas akhir untuk mata kuli
 
 ---
 
-## 👥 Tim Penyusun
+## 👥 Tim Penyusun Kelompok 3
 
 Proyek ini merupakan hasil kolaborasi dari tim yang beranggotakan:
 
