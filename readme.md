@@ -29,7 +29,7 @@ Proyek ini merupakan hasil kolaborasi dari tim yang beranggotakan:
 
 Proyek ini merupakan hasil kolaborasi dari tim dengan pembagian tugas sebagai berikut:
 
-* **Annisa Raihana Musdzakir (222312986)** - *Pengolahan Data*
+* **Annisa Raihana Mudzakir (222312986)** - *Pengolahan Data*
     * Bertanggung jawab dalam pengumpulan dan pra-pemrosesan data.
     * Membersihkan dan menggabungkan dataset dari berbagai sumber.
     * Membantu eksplorasi data awal (visualisasi dasar menggunakan `ggplot2`).
