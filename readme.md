@@ -147,6 +147,8 @@ Tempatkan file-file berikut ke dalam folder data tersebut:
 Setelah semua paket terinstal dan data sudah disiapkan, buka file ui.R atau server.R di RStudio. 
 Klik tombol "Run App" yang muncul di bagian atas editor untuk meluncurkan aplikasi.
 
+# [**Lihat Demo Langsung di Sini!**](https://padil.shinyapps.io/NEW1/)
+
 ## 📊 Sumber Data
 Data yang digunakan dalam proyek ini bersumber dari berbagai institusi dan platform data publik yang kredibel. Berikut adalah daftar sumber utama:
 - Badan Pusat Statistik (BPS) Indonesia: Digunakan untuk mendapatkan data statistik spesifik terkait Indonesia. Kunjungi BPS
@@ -154,8 +156,6 @@ Data yang digunakan dalam proyek ini bersumber dari berbagai institusi dan platf
 - ASEANStats: Data Indikator Tujuan Pembangunan Berkelanjutan (SDG Indicators) untuk negara-negara ASEAN. Kunjungi ASEANStats
 - EDGAR (The Emissions Database for Global Atmospheric Research): Sumber data emisi gas rumah kaca global. Kunjungi EDGAR
 - Global Data Lab: Menyediakan data geospasial yang digunakan untuk pemetaan. Kunjungi Global Data Lab
-  
-[**Lihat Demo Langsung di Sini!**](https://padil.shinyapps.io/NEW1/)
 
 ## 📜 Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT.
