@@ -3,8 +3,6 @@
 ![Versi Aplikasi](https://img.shields.io/badge/Versi-1.0.0-blue.svg)
 ![Lisensi](https://img.shields.io/badge/License-MIT-green.svg)
 
-![Demo Aplikasi](https://via.placeholder.com/800x450.png?text=Tempatkan+Screenshot+atau+GIF+Demo+Aplikasi+di+Sini)
-
 ---
 
 ### Daftar Isi
