@@ -1,0 +1,13 @@
+name: NEW1
+title: NEW1
+username: padil
+account: padil
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15037503
+bundleId: 10583078
+url: https://padil.shinyapps.io/NEW1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|readme.md
